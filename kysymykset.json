@@ -1,34 +1,34 @@
 {
     "kysymykset": [{
-            "teksti": "kysymys 1",
+            "teksti": "Kuinka paljon on 1+1",
             "vaihtoehdot": [{
-                "teksti": "kysymys 1 - vastaus 1",
+                "teksti": "1",
+                "oikein": false
+            }, {
+                "teksti": "2",
                 "oikein": true
             }, {
-                "teksti": "kysymys 1 - vastaus 2",
+                "teksti": "3",
                 "oikein": false
             }, {
-                "teksti": "kysymys 1 - vastaus 3",
-                "oikein": false
-            }, {
-                "teksti": "kysymys 1 - vastaus 4",
+                "teksti": "4",
                 "oikein": false
             }]
         },
         {
-            "teksti": "kysymys 2",
+            "teksti": "Kuinka monta metriä on 1 tuumaa",
             "vaihtoehdot": [{
-                "teksti": "kysymys 2 - vastaus 1",
+                "teksti": "2,54",
                 "oikein": false
             }, {
-                "teksti": "kysymys 2 - vastaus 2",
+                "teksti": "25,4",
                 "oikein": false
             }, {
-                "teksti": "kysymys 2 - vastaus 3",
-                "oikein": false
-            }, {
-                "teksti": "kysymys 2 - vastaus 4",
+                "teksti": "0,0254",
                 "oikein": true
+            }, {
+                "teksti": "0,254",
+                "oikein": false
             }]
         }
     ]
